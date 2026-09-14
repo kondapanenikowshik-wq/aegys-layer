@@ -1,0 +1,13 @@
+{
+  "name": "aegislayer",
+  "version": "0.1.0",
+  "description": "AegisLayer - intelligent cybersecurity risk management for modern IT teams",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.2.1"
+  }
+}
